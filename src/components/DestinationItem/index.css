@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.img {
+  height: 300px;
+  width: 300px;
+}
+
+.place {
+  color: #0f172a;
+  font-family: 'Open Sans';
+  font-size: 18px;
+}
